@@ -15,5 +15,5 @@
   <p>这是本地的存储</p>
   <P>又增加一行！</P>
     how are you
-  </  body  >
-</ html >
+  </body>
+</html >
